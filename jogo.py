@@ -9,4 +9,8 @@ print("você digitou: ", chute )
 
 chuteNumerico = int(chute)
 
-# print(chute)
+# print(chute) 
+
+acertou = chuteNumerico = numerosecreto
+maior = chuteNumerico > numerosecreto
+menor = chuteNumerico < numerosecreto
